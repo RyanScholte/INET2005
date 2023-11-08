@@ -1,0 +1,19 @@
+Apologies, but my laptop cannot connect to Xampp and start up Apache or phpMyAdmin. so I cannot create the Database, instead i will 
+put what I wouldve used for my SQL code in this file.
+
+// Create the users table in the unit_07 database.
+
+CREATE TABLE users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    username TEXT,
+    password TEXT
+);
+
+// Create the Login session table
+
+CREATE TABLE login_sessions (
+    login_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    session_id TEXT,
+    last_access_time INT
+);

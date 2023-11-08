@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<FavouriteMovies>
+    <Movie>
+        <Title>Deadpool 2</Title>
+        <Picture>https://media-cache.cinematerial.com/p/500x/hdbgefm3/deadpool-2-british-movie-cover.jpg?v=1527540432</Picture>
+        <Director>David Leitch</Director>
+        <MainActor>Ryan Reynolds</MainActor>
+        <IMDB>https://www.imdb.com/title/tt5463162/?ref_=tt_mv_close</IMDB>
+        <Year>2018</Year>
+        <Genre>Action, Adventure, Comedy</Genre>
+    </Movie>
+    <Movie>
+        <Title>Barbie</Title>
+        <Picture>https://img.seriebox.com/films/76/76850/affich_76850_1.jpg?id=982</Picture>
+        <Director>Greta Gerwig</Director>
+        <MainActor>Margot Robbie</MainActor>
+        <IMDB>https://www.imdb.com/title/tt1517268/</IMDB>
+        <Year>2023</Year>
+        <Genre>Adventure, Comedy, Fantasy</Genre>
+    </Movie>
+    <Movie>
+        <Title>Kung-Fu Panda</Title>
+        <Picture>https://th.bing.com/th/id/OIP.sRA7ea5X5Vc9yj4BObJwUAHaKi?pid=ImgDet&w=500&h=711&rs=1</Picture>
+        <Director>Mark Osborne</Director>
+        <MainActor>Jack Black</MainActor>
+        <IMDB>https://www.imdb.com/title/tt0441773/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Kung</IMDB>
+        <Year>2008</Year>
+        <Genre>Animation, Action, Adventure</Genre>
+    </Movie>
+    <Movie>
+        <Title>Avatar</Title>
+        <Picture>https://www.themoviedb.org/t/p/original/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg</Picture>
+        <Director>James Cameron</Director>
+        <MainActor>Sam Worthington</MainActor>
+        <IMDB>https://www.imdb.com/title/tt0499549/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Avatar</IMDB>
+        <Year>2009</Year>
+        <Genre>Action, Adventure, Fantasy</Genre>
+    </Movie>
+    <Movie>
+        <Title>Spider-Man: Across the Spider-Verse</Title>
+        <Picture>https://th.bing.com/th?id=OIP.W11TUc-kmp8l-XnAFQ6AtwAAAA&w=135&h=201&c=10&rs=1&qlt=90&o=6&dpr=1.3&pid=13.1</Picture>
+        <Director>Joaquim Dos Santos</Director>
+        <MainActor>Shameik Moore</MainActor>
+        <IMDB>https://www.imdb.com/title/tt9362722/?ref_=nv_sr_srsg_2_tt_6_nm_0_q_Spi</IMDB>
+        <Year>2023</Year>
+        <Genre>Animation, Action, Adventure</Genre>
+    </Movie>
+    <Movie>
+        <Title>South Park: Joining the Panderverse</Title>
+        <Picture>https://www.imdb.com/title/tt29474455/mediaviewer/rm3481096193/?ref_=tt_ov_i</Picture>
+        <Director>Trey Parker</Director>
+        <MainActor>Janeshia Adams-Ginyard</MainActor>
+        <IMDB>https://www.imdb.com/title/tt29474455/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_South%2520Parq</IMDB>
+        <Year>2023</Year>
+        <Genre>Animation, Comedy</Genre>
+    </Movie>
+    <Movie>
+        <Title>Top Gun: Maverick</Title>
+        <Picture>https://th.bing.com/th/id/OIP.r-YAPAdR03d_J-iXVXd-VwHaK-?w=186&h=276&c=7&r=0&o=5&dpr=1.3&pid=1.7</Picture>
+        <Director>Joseph Kosinski</Director>
+        <MainActor>Tom Cruise</MainActor>
+        <IMDB>https://www.imdb.com/title/tt1745960/?ref_=nv_sr_srsg_4_tt_7_nm_0_q_Top</IMDB>
+        <Year>2022</Year>
+        <Genre>Action, Drama</Genre>
+    </Movie>
+    <Movie>
+        <Title>Saving Private Ryan</Title>
+        <Picture>https://th.bing.com/th/id/OIP.kydTuP4g_KVlSbym8Y8UnwHaKf?w=186&h=263&c=7&r=0&o=5&dpr=1.3&pid=1.7</Picture>
+        <Director>Steven Spielberg</Director>
+        <MainActor>Tom Hanks</MainActor>
+        <IMDB>https://www.imdb.com/title/tt0120815/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Saving</IMDB>
+        <Year>1998</Year>
+        <Genre>Drama, War</Genre>
+    </Movie>
+    <Movie>
+        <Title>Minions</Title>
+        <Picture>https://th.bing.com/th/id/OIP.6EIpVIdYNBHkcMM-54osgAHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7</Picture>
+        <Director>Kyle Baldea</Director>
+        <MainActor>Sandra Bullock</MainActor>
+        <IMDB>https://www.imdb.com/title/tt2293640/?ref_=fn_al_tt_1</IMDB>
+        <Year>2015</Year>
+        <Genre>Animation, Adventure, Comedy</Genre>
+    </Movie>
+    <Movie>
+        <Title>Minions: The Rise of Gru</Title>
+        <Picture>https://th.bing.com/th/id/OIP.J0KiJ_jz6FN-8ptPKAUntgHaK1?w=136&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7</Picture>
+        <Director>Matthew Fogel</Director>
+        <MainActor>Steve Carell</MainActor>
+        <IMDB>https://www.imdb.com/title/tt5113044/?ref_=nv_sr_srsg_3_tt_7_nm_1_q_Minions</IMDB>
+        <Year>2022</Year>
+        <Genre>Animation, Adventure, Comedy</Genre>
+    </Movie>
+</FavouriteMovies>
